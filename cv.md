@@ -1,7 +1,7 @@
 # Yauheni Shuliakouski
-**Phone number:** +375297137970   
-**e-mail:8** zheka1609@yandex.ru   
-**Github profile:** https://github.com/Aidix   
+**Phone number:** +375 29 713-79-70   
+**e-mail:** zheka1609@yandex.ru   
+**Github profile:** [Aidix](https://github.com/Aidix)   
 
 ## Objective:
 Start a junior JavaScript developer career in the company and in 5 years grow to the team leader   
@@ -13,9 +13,9 @@ Start a junior JavaScript developer career in the company and in 5 years grow to
 
 ## Education:
 * A javascript/front-end course at the Rolling Scopes School in 2019 year  
-* BSUIR, Faculty of information technologies and control, Information Technologies in Automated Systems  
+* BSUIR, Faculty of information technologies and control, Information Technologies in Automated Systems, 2014 - 2018 years 
 
-##English level:
+## English level:
 A2(Pre-intermediate)   
 
 
